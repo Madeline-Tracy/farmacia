@@ -32,7 +32,7 @@
                 ?>
                   <div id="card-alert" class="card orange lighten-5">
                     <div class="card-content orange-text">
-                      <p>FALTA AL SISTEMA : No continue realizando faltas al sistema. 
+                      <p>FALTA AL SISTEMA : No f continue realizando faltas al sistema. 
                         Caso contrario se suspendera su cuenta y se dara aviso a las autoridades Correspondientes.</p>
                     </div>
                     <button type="button" class="close orange-text" data-dismiss="alert" aria-label="Close">
